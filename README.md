@@ -12,6 +12,11 @@ Este repositório é destinado ao desafio de projeto "Criando seu Primeiro Repos
  - Realizar commits de alterações feitas nos arquivos.
  - Fazer push das alterações para o repositório remoto no GitHub.
 
+## Checklist de estudo
+
+[![Nextjs](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular)](https://github.com/SilvioCavalcantiBonfim/dio-desafio-github-primeiro-repositorio/blob/0.1.0/angular.md)
+[![Nextjs](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)](https://github.com/SilvioCavalcantiBonfim/dio-desafio-github-primeiro-repositorio/blob/0.1.0/react.md)
+
 ## Links Uteis
 
  - [Guia de markdown](https://www.markdownguide.org/)
