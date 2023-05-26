@@ -70,10 +70,9 @@ Este é um checklist para ajudar você a acompanhar seu progresso ao estudar Ang
 
 ## Recursos Adicionais
 
- Continuar atualizando-se sobre as últimas atualizações e recursos do Angular consultando a documentação oficial e blogs especializados.
+  - [X] Continuar atualizando-se sobre as últimas atualizações e recursos do Angular consultando a documentação oficial e blogs especializados.
+  - [X] Participar de comunidades online, fóruns e grupos de discussão relacionados ao Angular para compartilhar conhecimentos e obter ajuda quando necessário.
 
-     Participar de comunidades online, fóruns e grupos de discussão relacionados ao Angular para compartilhar conhecimentos e obter ajuda quando necessário.
-
-Conclusão
+## Conclusão
 
 Use este checklist como um guia para acompanhar seu progresso ao estudar Angular. Lembre-se de que a prática constante e a construção de projetos reais são essenciais para se tornar um desenvolvedor Angular habilidoso. Boa sorte em sua jornada de aprendizado!
